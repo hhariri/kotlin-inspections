@@ -2,7 +2,6 @@ package com.hadihariri.kotlin.inspections
 
 import java.math.BigDecimal
 
-
 fun sum(x: Int, y: Int) = x + y
 
 fun returningUnit(param: String): Unit {
@@ -17,7 +16,7 @@ private val Int.bd: BigDecimal
 fun main(args: Array<String>) {
     val unusedVar = 100
 
-    val redundantSemicolon = 200;
+    val redundantSemicolon = 200
 
 
     println(redundantSemicolon)
