@@ -11,5 +11,5 @@ For more information see the following blog post:
 
 
 
-\* If I've forgotten, it's somewhere on my site https://hadihariri.com
+\* If I've forgotten, it's somewhere on my site http://hadihariri.com
 
