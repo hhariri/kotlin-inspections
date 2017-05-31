@@ -16,7 +16,7 @@ private val Int.bd: BigDecimal
 fun main(args: Array<String>) {
     val unusedVar = 100
 
-    val redundantSemicolon = 200
+    val redundantSemicolon = 200;
 
 
     println(redundantSemicolon)
