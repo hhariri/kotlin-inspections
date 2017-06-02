@@ -8,6 +8,8 @@ fun returningUnit(param: String): Unit {
 
 }
 
+fun add(x: Int, y: Int) = x + y
+
 private val Int.bd: BigDecimal
     get() {
         return BigDecimal(this)
