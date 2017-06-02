@@ -29,3 +29,16 @@ fun usingTwoSpaces() {
   val someValue = "At least you're not using TABS!"
   println("But you insist on two spaces!")
 }
+
+
+fun doesSomething(x: Int) {
+    if (x < 100) {
+        println("Writing output")
+    }
+}
+
+fun doesSomethingElse(y: Int) {
+    if (y < 100) {
+        println("Writing output")
+    }
+}
